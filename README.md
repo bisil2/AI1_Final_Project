@@ -11,3 +11,7 @@ rawdata.csv
 
 인공지능1_모델_학습(Inception_v4_초기학습).ipynb
  - Inception-v4 논문 기반으로 직접 구현한 모델
+
+raw.zip
+ - rawdata로 용량이 커서 링크 첨부
+ - https://drive.google.com/file/d/1x1aVBkG7tzFoHKEaMOehXJLNNFt366db/view?usp=drive_link
